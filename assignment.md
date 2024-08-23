@@ -17,11 +17,12 @@ Your answer here
 Your answer here
 ```class name : elementThree
 
-        padding: 10px;
-        background-color: aquamarine;
-        text-shadow: 1px 1px white;
-        border: gray solid 2px;
-        border-radius: 10px;
+content of the css
+ padding: 10px;
+ background-color: aquamarine;
+ text-shadow: 1px 1px white;
+ border: gray solid 2px;
+ border-radius: 10px;
 
 4. What is the css selector of the fourth element?
 ```
